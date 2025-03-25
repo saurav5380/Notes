@@ -58,13 +58,14 @@
 - Create protected routes
 - Connect user profiles to favorites
 
-### 8. Favorites Functionality
+### 8. Additional Functionality or Features
 
 **Reason**: This builds on core functionality and connects frontend to backend.
 
-- Create UI for saving favorites
-- Implement backend storage of favorites
-- Build favorites retrieval and display
+- Create UI or Functional Components for additional features.
+- Implement backend storage 
+- Build  functionality for retrieval and display of data from the additional features. 
+- Test the functionality of the features developed.
 
 ### 9. Error Handling & Edge Cases
 
